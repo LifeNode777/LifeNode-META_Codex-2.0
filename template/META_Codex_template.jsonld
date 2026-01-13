@@ -1,7 +1,7 @@
 {
   "@context": {
     "schema": "http://schema.org/",
-    "ln": "https://lifenode777.github.io/ns/lifnode#",
+    "ln": "https://lifenode777.github.io/LifeNode_2.0/",
     "TrajectoryOfMeaning": "ln:TrajectoryOfMeaning",
     "ascalonPurity": "ln:ascalonPurity",
     "coherenceIndex": "ln:coherenceIndex",

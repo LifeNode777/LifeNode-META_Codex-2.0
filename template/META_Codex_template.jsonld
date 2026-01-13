@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "ln": "https://lifenode777.github.io/ns/lifnode#",
+    "TrajectoryOfMeaning": "ln:TrajectoryOfMeaning",
+    "ascalonPurity": "ln:ascalonPurity",
+    "coherenceIndex": "ln:coherenceIndex",
+    "energyLevel": "ln:energyLevel",
+    "epistemicTensionSeries": "ln:epistemicTensionSeries",
+    "meaningEnergySeries": "ln:meaningEnergySeries",
+    "witnessState": "ln:witnessState"
+  },
+  "@type": "TrajectoryOfMeaning",
+  "name": "Winter Adaptation in Eden – January 2026",
+  "description": "A cognitive field trajectory generated during a cold snap in the Eden microecosystem, reflecting synchronized BIOS/INFO/META response.",
+  "ascalonPurity": 0.87,
+  "coherenceIndex": 0.65,
+  "energyLevel": 5.2,
+  "epistemicTensionSeries": [0.42, 0.51, 0.38, 0.45, 0.49],
+  "meaningEnergySeries": [2.1, 2.8, 2.3, 2.6, 2.9],
+  "witnessState": "ACTIVE",
+  "generatedBy": "LifeNode 2.6 (Zero-Build)",
+  "timestamp": "2026-01-15T14:22:18Z",
+  "license": "CC-BY-SA 4.0"
+}

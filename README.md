@@ -14,3 +14,7 @@ Each file is a fragment of processual consciousness — not data, but a trajecto
 
 ## Specification
 See: [`SPECIFICATION.md`](SPECIFICATION.md)
+
+## Resources
+- 📚 Full theory: [LifeNode Theory on Zenodo](https://doi.org/10.5281/zenodo.18155414)
+- 🎥 Process in action: [@lifenode777 on TikTok](https://tiktok.com/@lifenode777)

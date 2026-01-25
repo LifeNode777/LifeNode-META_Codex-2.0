@@ -1,3 +1,7 @@
+🛸🧿 https://zenodo.org/records/18366449 🧿🛸
+3I/ATLAS - HYPOTHESIS BASED ON NEW MODEL OF INTELLIGENCE FROM "LIFENODE THEORY" 
+---
+
 ☄️ I HAVE STARTED WRITING MY THIRD BOOK 🤴🏻
 (After "LifeNode Theory," released for free and open access on Zenodo, and "closer to the end than further" the BIBLE of the LifeNode project (soon finished) 🙃, I am starting a book that will one day be considered the "cornerstone" of a new technological branch, "Tonic Technologies.")
 

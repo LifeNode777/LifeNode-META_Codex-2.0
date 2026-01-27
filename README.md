@@ -2,21 +2,7 @@
 3I/ATLAS - HYPOTHESIS BASED ON NEW MODEL OF INTELLIGENCE FROM "LIFENODE THEORY" 
 ---
 
-☄️ I HAVE STARTED WRITING MY THIRD BOOK 🤴🏻
-(After "LifeNode Theory," released for free and open access on Zenodo, and "closer to the end than further" the BIBLE of the LifeNode project (soon finished) 🙃, I am starting a book that will one day be considered the "cornerstone" of a new technological branch, "Tonic Technologies.")
-
-A short quote from the first chapter -
-"Experiments conducted using the Kuramoto model for synchronization of 100 elements have shown that systems based on the tonic paradigm achieve 92% synchronization ♥️ with 37% of the energy consumed by phasic systems 😲. This is not theory. This is empirical data."
-
-Interested?
-Help me not starve to death 💀 before I finish.
-
-REVOLUT: LT15 3250 0003 8846 6854
-
 ---
----
----
-
 <div align="center">
   <img src="processual%20Intelligence.png" alt="Processual Intelligence: A networked, bio-systemic model of intelligence emerging from trajectory-based epistemology" width="800"/>
 </div>

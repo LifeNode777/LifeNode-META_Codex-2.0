@@ -1,5 +1,4 @@
-🛸🧿 https://zenodo.org/records/18366449 🧿🛸
-3I/ATLAS - HYPOTHESIS BASED ON NEW MODEL OF INTELLIGENCE FROM "LIFENODE THEORY" 
+🛸🧿 Project LifeNode on OSF - https://doi.org/10.17605/OSF.IO/W36CE 🕵🏻‍♂️👨🏻‍🔬
 ---
 
 ---

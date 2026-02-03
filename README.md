@@ -1,4 +1,4 @@
----
+
 <div align="center">
   <img src="processual%20Intelligence.png" alt="Processual Intelligence: A networked, bio-systemic model of intelligence emerging from trajectory-based epistemology" width="800"/>
 </div>

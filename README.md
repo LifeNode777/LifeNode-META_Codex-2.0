@@ -1,6 +1,3 @@
-🛸🧿 Project LifeNode on OSF - https://doi.org/10.17605/OSF.IO/W36CE 🕵🏻‍♂️👨🏻‍🔬
----
-
 ---
 <div align="center">
   <img src="processual%20Intelligence.png" alt="Processual Intelligence: A networked, bio-systemic model of intelligence emerging from trajectory-based epistemology" width="800"/>

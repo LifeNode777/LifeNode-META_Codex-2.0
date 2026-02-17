@@ -360,6 +360,9 @@ This section contains a structured semantic representation of core concepts in t
 e-mail:
 krzysiek_230@op.pl
 
+YouTube:
+www.youtube.com/@lifenode777
+
 TikTok:
 www.tiktok.com/@lifenode777
 

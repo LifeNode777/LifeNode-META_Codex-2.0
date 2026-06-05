@@ -1,3 +1,6 @@
+> 👁️ **Core Framework Update:** The central essay **[Civilization of Resonance](https://github.com/LifeNode777/LifeNode_2.0/blob/main/Civilization_of_Resonance.md)** is now live in the main repository, featuring brand-new, high-fidelity bio-quantum engineering schematics, topological field visualizations, and the formal mathematics of Meld.
+---
+
 
 <div align="center">
   <img src="processual%20Intelligence.png" alt="Processual Intelligence: A networked, bio-systemic model of intelligence emerging from trajectory-based epistemology" width="800"/>

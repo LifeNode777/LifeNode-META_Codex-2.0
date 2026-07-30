@@ -11,7 +11,11 @@
 
 Siedzisz w sali konferencyjnej albo na zdalnym callu gildii. Światło jarzeniówek albo ekranu miga z częstotliwością, która powoli rozwala ci siatkówkę. W powietrzu wisi zapach stęchłej kawy i ozonu z klimatyzacji. Na stole leżą dwa warianty decyzyjne. Zapala się dioda, rusza głosowanie.
 
+![decision gemini version](decision_gemini.png)
+
 **51 do 49.** Opcja A wygrywa. Opcja B idzie w piach.
+
+![decision version qwen](decision_qwen.png)
 
 System zapisuje stan. Protokół zamknięty. Urzędnicy i zarząd ogłaszają sukces: *„Podjęliśmy decyzję”*.
 
@@ -26,6 +30,8 @@ Ale to bzdura. Właśnie rozcięliście tkankę organizacji na pół i wyproduko
 ---
 
 ### Pułapka „Ontologii Stanów”
+
+![soliton_in_jar_qwen](soliton_in_jar_qwen.png)
 
 Dlaczego tak się dzieje? Ponieważ klasyczne głosowanie większościowe operuje w tym, co w **LifeNode** nazywamy **ontologią stanów**.
 
@@ -43,11 +49,15 @@ Ale życie nie jest statycznym kadrem. Życie to ciągła trajektoria w przestrz
 
 ### Jak decyzje podejmuje ekosystem? (Podpowiedź: nie używa urn wyborczych)
 
+![mycelial_network_qwen](mycelial_network_qwen.png)
+
 Wyobraź sobie kompleks leśny albo mikroukład permakulturowy, który podczas suszy musi „zdecydować”, gdzie skierować głębokie korzenie, by dopaść żyłę wodną. Czy dąb organizuje referendum? Czy sosna zgłasza weto? Czy podziemna grzybnia liczy głosy w Excelu?
 
 No jasne, że nie.
 
 Zamiast binarnej szamotaniny, podziemna sieć łącząca korzenie wysyła tysiące mikroskopijnych impulsów fazowych w każdym możliwym kierunku.
+
+![mycelial_network_gemini](mycelial_network_gemini.png)
 
 * Tam, gdzie natrafia na jałową skałę lub martwy grunt, sygnał traci fazę, słabnie i wygasza się sam.
 * Tam, gdzie wyczuwa wilgoć i składniki odżywcze, następuje automatyczna, wzmacniająca **interferencja falowa**.
@@ -77,11 +87,15 @@ DAO 3.0 odrzuca ten paradygmat: **przestańcie optymalizować zamrożone stany, 
 
 Zamiast pytać: *„Która opcja ma więcej głosów?”*, archiwum decyzyjne DAO 3.0 pyta: *„Która trajektoria wprowadza cały układ w stan największej spójności fazowej przy minimalnym tarciu?”*.
 
+![synchronization_gemini](synchronization_gemini.png)
+
 > **Głosowanie to wymuszenie statycznego stanu. Rezonans to dostrojenie dynamicznej trajektorii.**
 
 Znasz to uczucie z własnej pracy? Siedzicie w zespole, trwa ostry spór i burza mózgów, napięcie rośnie, aż nagle... zapada cisza. Wszyscy patrzą po sobie i pojawia się to charakterystyczne **„kliknięcie”**. Wiecie, że to jest *to*. Nie dlatego, że ktoś kogoś przekrzyczał czy zaszantażował, ale dlatego, że chaos przestał szumieć, napięcie opadło, a ukazała się czysta, spójna ścieżka. Geometria sensu się skondensowała.
 
 To jest właśnie faza rezonansu. DAO 3.0 to próba zbudowania architektury, która nie zlicza podniesionych rąk, ale potrafi wykryć, zmierzyć i wzmocnić to zbiorowe „kliknięcie” całego układu.
+
+![synchronization_qwen](synchronization_qwen.png)
 
 ---
 
@@ -99,11 +113,17 @@ W architektach LifeNode mierzymy to poprzez ścisłą synchronizację trzech war
 | **INFO (Kształt)** | Topologia połączeń i mapa zależności bez narzucania znaczenia. | Zamiast sztywnego kodu, rejestrujemy dynamiczny „kształt doświadczenia”. |
 | **META (Znaczenie)** | Wektor intencji, do którego system naturalnie grawituje. | Zamiast sztucznej optymalizacji, podążamy za głęboką dynamiką celu. |
 
+![clicking_point_gemini](clicking_point_gemini.png)
+
 Gdy te trzy warstwy wchodzą w synchronizację, system przestaje potrzebować bata, sztywnych regulaminów czy walki frakcyjnej. Zaczyna działać w strefie stabilnego atraktora.
+
+![clicking_point_qwen](clicking_point_qwen.png)
 
 ---
 
 ### Co dalej?
+
+![DAO_manifestation_gemini](DAO_manifestation_gemini.png)
 
 Zepsuty zegar cywilizacji oparty na optymalizacji statycznych stanów właśnie traci rytm, a tradycyjne binarne spory paraliżują systemy na każdym poziomie.
 

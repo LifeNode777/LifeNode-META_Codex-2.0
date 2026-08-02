@@ -26,6 +26,8 @@ W **DAO 3.0 (LifeNode)** decyzja nie jest "podejmowana" przez głosowanie. Jest 
 
 ## 2. Architektura wejścia: Rozbicie sygnału na SAMI i LOGOS
 
+![SAMI&LOGOS](SAMI&LOGOS.png)
+
 Wszelkie dane wejściowe w cyklu **DS 2.6** są rozbijane na dwie symetryczne składowe o równej wadze ($50/50$):
 
 * **SAMI (Subiektywna Aktywna Perspektywa / warstwa BIOS):** Sygnał pochodzący z bezpośredniej obserwacji żywej tkanki systemu — lokalne opory, stan emocjonalny, intuicja wykonawcza, podskórne napięcia zespołu.
@@ -55,6 +57,8 @@ Różnica między stanem subiektywnym a ograniczeniami strukturalnymi tworzy **n
 $$\Delta(t) = \Vert{}SAMI - LOGOS\Vert{}$$
 
 Wartość $\Delta(t)$ wyznacza reżim pracy układu:
+
+![Three_Regimes_Δ(t)](Three_Regimes_Δ(t).png)
 
 * **$\Delta(t) < 0.3$ (Stagnacja):** Brak różnicy potencjałów. Układ wykazuje konformizm lub apatię. Brak wystarczającej energii do zmiany stanu.
 * **$\Delta(t) > 0.7$ (Dekoherencja):** Sygnał intuicyjny i dane są całkowicie sprzeczne. Układ wchodzi w stan chaosu; próba wymuszenia decyzji w tym punkcie prowadzi do rozpadu koherencji.
@@ -91,6 +95,7 @@ Jeśli $\theta < 0.70$, oznacza to, że wniosek generuje zbyt wysoki szum inform
 [READY: 300s] ──> [ALIGN] ──> [LOCK] ──> [SYNC] ──> [LINK] ──> [HOLD: 120s] ──> [CLOSE]
 
 ```
+![decision_cycle](decision_cycle.png)
 
 1. **READY (300s):** Wyciszenie szumu tła. Kalibracja linii bazowej. Przerwa na stabilizację sygnału wyjściowego.
 2. **ALIGN:** Wprowadzenie sekwencji geometrycznej $S_x$. Weryfikacja przesunięcia fazowego ($\Delta\phi < 0.1\text{ rad}$).
@@ -101,14 +106,14 @@ Jeśli $\theta < 0.70$, oznacza to, że wniosek generuje zbyt wysoki szum inform
 
 $$\left\Vert{}\frac{d^2 E_s}{dt^2}\right\Vert{} \to 0$$
 
-
-
 Jeśli w tym czasie wystąpi spadek koherencji, następuje przerywanie procesu (SCRUB).
 7. **CLOSE:** Rekord spójności (hash SHA-3) trafia do rejestru procesowego. Trajektoria zostaje utrwalona, a alokacja zasobów następuje automatycznie.
 
 ---
 
 ## 5. Rola AI i Human Anchor: Rozdzielenie Świadka od Decydenta
+
+![Human_Anchor&AI_Witness.png](Human_Anchor&AI_Witness.png)
 
 W architekturze LifeNode **sztuczna inteligencja (AI Witness)** nie podejmuje decyzji.
 

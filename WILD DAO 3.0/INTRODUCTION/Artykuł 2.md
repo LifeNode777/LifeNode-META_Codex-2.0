@@ -22,6 +22,8 @@ Oto drugi artykuł z serii:
 [PARADIGM: RESONANCE > ACCUMULATION // METRIC: COHERENCE_FLOW]
 ```
 
+![Human Anchor](human_anchor.png)
+
 # DZIKIE DAO 3.0 // ODCINEK 2: Token, który nie jest pieniądzem
 ### *O tokenomice procesowej i tym, jak zamienić uwagę i intencję w walutę, która nie służy do kupowania*
 
@@ -36,6 +38,7 @@ W świecie, gdzie Bitcoin jest cyfrowym złotem (magazynem wartości), a Ethereu
 [CLASSIC_TOKEN: STATE_BASED // LIFENODE_TOKEN: PROCESS_BASED]
 [CONFLICT: ACCUMULATION vs FLOW]
 ```
+![porównanie](proof_of_work_vs_proof_of_Resonance.png)
 
 ---
 
@@ -104,6 +107,8 @@ To nie jest abstrakcja. To jest **fizyczny zapis rezonansu**. Token nie jest "wy
 
 **Zrozum różnicę:** Nie dostajesz tokenów za to, że *masz* coś (kapitał, hardware, władzę). Dostajesz tokeny za to, że **rezonowałeś** — że utrzymałeś koherencję fazową między biologią, informacją i sensem.
 
+![token_minting_through_resonance](token_minting_through_resonance.png)
+
 ---
 
 ## Deflacja rezonansowa: Dlaczego tokeny znikają
@@ -122,6 +127,8 @@ Gdy napięcie epistemiczne między SAMI a LOGOS staje się zbyt duże (Δ(t) > 0
 
 **3. Spalanie entropii (gdy ASCALON purity < 0.70)**
 Gdy czystość fazowa spada poniżej progu 0.70, tokeny są tracone jako **szum**. System odrzuca je, bo reprezentują dekoherencję, nie rezonans.
+
+![Resonance_3_ways_of_deflation](Resonance_3_ways_of_deflation.png)
 
 ```
 [DEFLATION_MECHANISM]

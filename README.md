@@ -17,6 +17,8 @@ To examine the fabric of reality fragmented by a reductionist paradigm and claim
 ---
 </div>
 
+![discretization_is_observation_not_coupling](img/discretization_is_observation_not_coupling.png)
+
 ---
 
 # Quo Vadis planet Earth?

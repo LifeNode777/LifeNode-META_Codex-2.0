@@ -1,3 +1,108 @@
+# METASYSTEM CONTRACT  ANNOUNCEMENT
+
+![METASYSTEM_CONTRACT](img/METASYSTEM_CONTRACT.png)
+
+## What is being built
+
+A binding machine-readable contract for the entire LifeNode ecosystem. Not a manifesto. Not a roadmap. **An operational specification** that defines what can and cannot be claimed, how AI systems participate, and what constitutes valid contribution.
+
+The contract lives in the machine repository alongside the ontology. It is written for humans and agents alike — because both need the same invariants to work correctly within this ecosystem.
+
+---
+
+## Why a contract now
+
+The ecosystem has grown to nine repositories, multiple technical modules, a narrative layer, and a public-facing hub. With that growth comes a risk: drift. Different modules, different AI sessions, different contributors — each could develop their own assumptions about what counts as evidence, what constitutes validation, or what role AI plays in the process.
+
+The contract prevents this drift by making invariants explicit and binding:
+
+> *"They are not aspirational principles. They are operational constraints."*
+
+Violation of an invariant invalidates the contribution. Not "we'll review it later." **Invalid.**
+
+---
+
+## Six core principles
+
+**01 — OBSERVATION ≠ VALIDATION**
+
+GitHub views, clones, and downloads are telemetry. They measure attention, not scientific validity. The contract enforces this distinction explicitly:
+
+![traffic_vs_validation](img/traffic_vs_validation.png)
+
+> *"Clones ≠ researchers. Views ≠ readers. Traffic ≠ validation."*
+
+**02 — NARRATIVE ≠ EVIDENCE**
+
+The comic layer (TOKIO DRIFT '44) is narrative capital — an interface, not an evidentiary record. The contract prohibits mixing narrative and technical claims:
+
+> *"Any claim, interpretation, or external communication that treats narrative material as supporting a scientific or technical assertion is contamination and is invalid."*
+
+![LOADING_Protocol](img/LOADING_Protocol.png)
+
+**03 — CONSTRUCTION ≠ EXECUTION**
+
+Building the apparatus is expensive and singular. Running it is cheap and multiple. The contract protects authorship of the core shape:
+
+![construction_vs_execution](img/construction_vs_execution.png)
+
+> *"Never invert the cost and authorship relation. Never present execution scripts as the primary intellectual contribution."*
+
+**04 — AI IS RESONATOR, NOT AUTHOR**
+
+![AI_is_resonator_not_author!](img/AI_is_resonator_not_author.png)
+
+AI systems are temporary resonators, sparring partners, and falsification auditors. They do not author the theoretical shape:
+
+> *"They do not author the theoretical shape and must not claim or imply authorship of the core constructions."*
+
+**05 — DEAD MATH MUST FAIL**
+
+Every measurement apparatus must reject null models, shuffled controls, and deterministic-chaos zombies. Rejection is a methodological result:
+
+![dead_math_must_fail!!](img/dead_math_must_fail.png)
+
+> *"A detector that cannot reject dead math is worse than useless. Successful rejection of nulls is a positive methodological result, not a disappointment."*
+
+**06 — NON-CLAIMS ARE DURABLE STATE**
+
+The current status of Rubicon, independent reproduction, and consortium readiness must remain machine-readable and explicit:
+
+> *"Updating a non-claim requires new evidence, a version bump, and a recorded reason. Silence or omission is not an update."*
+
+---
+
+## How it works
+
+The contract includes:
+- **Loading protocol** for humans (sections 1→3) and AI agents (machine-readable block first)
+- **Nine core invariants** with explicit violation examples
+- **Layer Map** linking all repositories and defining their epistemic status
+- **Machine-readable JSON block** for agent integration
+- **Explicit non-claims** section that persists across all documents
+
+It is not aspirational. It is operational. It binds every human contributor, every AI leg, and every external runner.
+
+![layer_map👁️](img/layer_map.png)
+
+## Status
+
+The contract is in draft form (v0.?). It will evolve as the ecosystem grows, but the invariants are non-negotiable. The contract itself follows the rules it defines — it is transparent about what has not been validated, what remains single-node, and what requires external reproduction.
+
+Entry remains work, not invitation.
+
+**The contract is loading.** 👁️
+
+
+*META Codex 2.0 — Open standard for processual awareness*
+*DOI: 10.5281/zenodo.ogarnie się później*
+*License: CC-BY-NC-SA 4.0*
+
+
+---
+---
+
+
 To examine the fabric of reality fragmented by a reductionist paradigm and claim that there is no global field in it is like taking a watch apart, pouring acid on it and claiming that "time does not flow out of it."
 
 <!-- LIFENODE ECOSYSTEM NAVIGATION HEADER -->

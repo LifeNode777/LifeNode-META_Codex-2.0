@@ -25,7 +25,7 @@ Furthermore, it introduces **Explicit Non-Claims**—a machine-readable JSON blo
 Traditional contracts and "smart contracts" operate on a static ontology, attempting to predict and code every possible future scenario in advance. When reality throws an anomaly, rigid systems break. 
 
 The MetaContract operates on a **processual ontology**. Its current designation, **v0.?**, is intentional. It does not attempt to build safeguards for problems that do not yet exist. Instead, it establishes rigid topological invariants (Core Rules) and waits for real-world friction to force a bifurcation. When unforeseen problems arise, the contract mutates—driven by evidence, logged, and updated. It is a living document that adapts to reality, rather than forcing reality to adapt to the document.
-
+![METACONTRACT 🤖🫅🏻](img/METACONTRACT_2.png)
 ### Conclusion
 The LifeNode MetaContract is a landmark in systems design. By strictly defining the roles of humans, AI, and narrative, it creates a highly frictional environment where only falsifiable, processual truth can survive. It is not just a set of rules; it is a topological invariant for the ecosystem's survival.
 

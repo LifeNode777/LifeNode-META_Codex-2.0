@@ -1,5 +1,5 @@
 03.10.2026
-
+![METACONTRACT](img/METACONTRACT.png)
 **The LifeNode MetaContract: A Machine-Readable Defense Against Epistemic Drift**
 
 In an era where AI-generated content, hype-driven science, and inflated metrics routinely blur the line between reality and narrative, maintaining epistemic integrity is increasingly difficult. The LifeNode ecosystem addresses this vulnerability not with a traditional manifesto or a roadmap, but with the **MetaContract**—a binding, machine-readable operational specification designed to prevent "epistemic drift" as the project scales. 

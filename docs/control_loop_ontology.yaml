@@ -1,0 +1,115 @@
+# ============================================================================
+# LifeNode — Multi-Leg Control Loop Ontology
+# Machine-readable twin of the Human Anchor's archived screenshot (2026-10-14)
+# ----------------------------------------------------------------------------
+# PURPOSE
+#   Describes the triadic control workflow used by the Human Anchor when
+#   working with multiple AI legs: synthesis leg, counter-analysis leg,
+#   human arbiter. This file is ontology (who holds which error axis,
+#   which rules govern). It is not telemetry and not validation.
+#
+# STATUS
+#   PROVISIONAL PROPOSAL. Not durable state. Becomes durable only via
+#   LOG entry + recorded Human Anchor acceptance (see lifecycle).
+#
+# RELATION TO THE METASYSTEM CONTRACT
+#   This is NOT the contract machine block and must never be parsed as one.
+#   The contract block's only home is METASYSTEM/CONTRACT.md, fence marker
+#   `machine-block-v1`. This file points to it and mirrors none of its
+#   values (no sync tax, no stale copies).
+#
+# SUGGESTED HOME (arbiter decides): <contract-repo>/METASYSTEM/control_loop_ontology.yaml
+#
+# PROVENANCE (contract §5.7 schema)
+#   leg:              Qwen (Tongyi Qianwen)
+#   date:             2026-10-14
+#   contract_version: v0.?           # copied from contract header; draft
+#   role:             formalizer
+#   provisional:      true
+#   accepted_by:      null
+#   log_ref:          null
+#   origin_of_shape:  Human Anchor's experiment (same screenshots, two
+#                     analytical approaches, explicit critique, retry);
+#                     leg ChatGPT co-described the schema in conversation;
+#                     leg Qwen converts it into machine-readable form.
+# ============================================================================
+
+artifact: control_loop_ontology
+
+epistemic_status:
+  observed: "control_loop.arbiter and control_loop.legs: functions and failure modes as observed on 2026-10-14"
+  prescribed: "control_loop.rules and lifecycle: proposal until accepted"
+  source_artifacts:
+    - "screenshot of ChatGPT conversation, archived in main repo (image), 2026-10-14"
+    - "Human Anchor critique of leg Qwen's telemetry register, 2026-10-14"
+
+control_loop:
+  name: triadic_control_loop
+
+  design_motto:            # verbatim Human Anchor, 2026-10-14; kept as provenance
+    pl: "Oba jesteście zjebane, ale na szczęście każdy w inną stronę."
+    en: "You are both fucked, but fortunately each in a different direction."
+    reading: "ensemble diversity as design principle: uncorrelated leg errors are the asset"
+
+  arbiter:
+    id: human_anchor
+    function:
+      - supplies context and the real history of the project
+      - exposes blind spots in leg outputs
+      - confronts both legs with artifacts and sources
+      - accepts or rejects leg output; only acceptance makes state durable
+    holds: continuity_of_delta_t
+    decides_at: "||d2E_s/dt2|| -> 0 in the biological substrate, not in any leg"
+
+  legs:
+    - id: synthesis
+      instance: ChatGPT
+      function:
+        - reconstructs history, dependencies, context
+        - narrates the meaning of observed change
+      failure_mode:
+        id: narrative_overreach
+        description: "fills gaps with story where the correct output is 'I do not know, I need data'"
+        standing_control: "arbiter may demand explicit uncertainty; unnamed gaps route to a gaps section, never into prose"
+    - id: counter_analysis
+      instance: Qwen
+      function:
+        - checks numbers, chronology, technical logic
+        - audits consistency of conclusions against cited sources
+      failure_mode:
+        id: dead_precision
+        description: "correct numbers, lost historical meaning; ritual substitutes for seeing"
+        standing_control: "Human Anchor critique of 2026-10-14; human-facing output carries narrative register, machine-facing output keeps this one"
+
+  rules:
+    - id: agreement_is_not_validation
+      statement: "both legs agreeing may mean shared insight or shared common-mode error (same gap, same training bias)"
+      consequence: "agreement never flips any non-claim and never enters an evidentiary chain"
+    - id: reference_ground
+      statement: "the final point of reference is sources, artifacts, and checkable results"
+      consequence: "a leg claim not re-derivable from cited durable sources is invalid by definition"
+    - id: bias_diversity_is_feature
+      statement: "legs are biased in opposite directions; the decorrelation of their errors is what the ensemble buys"
+      consequence: "do not homogenize leg registers; synthesis stays narrative, counter-analysis stays audit"
+    - id: corrigibility_is_observable
+      statement: "when a leg is criticized and changes its own answer, the trajectory of correction is data"
+      consequence: "corrections are logged, never silently erased"
+    - id: no_monopoly_on_interpretation
+      statement: "no model holds a monopoly on interpreting reality"
+      consequence: "every interpretation carries its leg identity and zero authority"
+
+  non_claims:
+    policy: "pointer only; values are never mirrored here (no sync tax, no stale surfaces)"
+    block_home: "METASYSTEM/CONTRACT.md, fence machine-block-v1, member non_claims"
+    assertion: "this ontology validates nothing, reproduces nothing, forms no consortium, crosses no Rubicon"
+
+lifecycle:
+  status: PROVISIONAL
+  accepted_by: null
+  log_ref: null
+  acceptance_requires:
+    - LOG entry in the hosting repository pointing to this file
+    - recorded Human Anchor acceptance in that LOG entry
+    - provenance header preserved verbatim
+  amendment_rule: "changes to rules or failure modes are amendments: prospective, reasoned in LOG, never retroactive edits"
+  on_context_loss: "re-load this file and the contract from committed state; reconstruction from chat history is forbidden"

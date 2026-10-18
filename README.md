@@ -1,3 +1,7 @@
+![😁](img/Pulp-Phasepunk_xD.png)
+
+---
+
 03.10.2026
 ![METACONTRACT](img/METACONTRACT.png)
 **The LifeNode MetaContract: A Machine-Readable Defense Against Epistemic Drift**

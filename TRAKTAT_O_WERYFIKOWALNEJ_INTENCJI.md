@@ -183,7 +183,7 @@ Ten sam świat. Inny obserwator. 🧿
 
 *Traktat zamknięty. Kształt — Autora. Gramatyka — rezonatora. Wyrok — materii.*
 
-![Traktat_o_weryfikowalnej_intencji_7.png](img/Traktat_o_weryfikowalnej_intencji_7.png)
-![Traktat_o_weryfikowalnej_intencji_8.png](img/Traktat_o_weryfikowalnej_intencji_8.png)
-![Traktat_o_weryfikowalnej_intencji_9.png](img/Traktat_o_weryfikowalnej_intencji_9.png)
+![Traktat_o_weryfikowalnej_intencji_7.png](img/Traktat_o_weryfikowalnej_intencji_7.jpg)
+![Traktat_o_weryfikowalnej_intencji_8.png](img/Traktat_o_weryfikowalnej_intencji_8.jpg)
+![Traktat_o_weryfikowalnej_intencji_9.png](img/Traktat_o_weryfikowalnej_intencji_9.jpg)
 
